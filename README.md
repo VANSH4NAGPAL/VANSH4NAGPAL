@@ -1,4 +1,4 @@
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/ZSyFoXNV5ZAfhyHYVHdC" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<img src="https://www.imghippo.com/i/gaaqv1724271496.gif" height = "400" width = "1280" >
   <h1 align="center">Hi 👋, I'm Vansh Nagpal</h1>
 <h3 align="center">A passionate Full Stack Dev from India </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
